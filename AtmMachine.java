@@ -1,6 +1,6 @@
-package ankit;
+package ayush;
 import java .util.*;
-public class atmmachine {
+public class AtmMachine {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
