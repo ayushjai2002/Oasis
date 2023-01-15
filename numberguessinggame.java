@@ -64,7 +64,7 @@ public class numberguesssinggame {
 	public static void main(String[] args) 
 	{
 	  //	Task 2 - Number Guessing Game.
-	 //	    By Arihant Jain.
+	 //	    By Ayush Jain
 		
          numberguessinggame();
 	}
